@@ -16,6 +16,18 @@ This project fits a credit limit prediction model using customers' information t
 - Tree-based models
 
 
+# Feature Importance Analysis
+
+- Spearman correlation
+- PCA
+- mRMR
+- Permutation importance
+- Drop column importance
+- Comparison
+
+<img src = './featimp.png' height = 250>
+
+
 # Result
 
 R2 = 0.97
